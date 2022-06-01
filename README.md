@@ -1,4 +1,4 @@
-### Hi guys <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">, I'm Suzana!
+### Hi guys, I'm Suzana!
 </br>
 
 - 👩‍💻 I’m a studying systems analysis and development.

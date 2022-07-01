@@ -3,6 +3,12 @@
 
 - 👩‍💻 I’m a studying systems analysis and development.
 - 📚 I’m interested in books and graduated in human resources and career transition
+- 👩‍💻 Pronouns: ela/dela.
+- 📚 Formada em Gestão de Recursos Humanos.
+- 📚 Aluna UAM - Cursando Análise e Desencolvimento de Sistemas.
+- 👩‍💻 Futura DEV.
+- 👩‍💻 Estudo focado em: React, MySQL, JavaScript, HTML e CSS.
+- Estudante da Alura e DIO INNOVANTION nas horas vagas.
 
 ----
 

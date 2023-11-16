@@ -7,9 +7,6 @@
 - 📚 Formada em Gestão de Recursos Humanos.
 - 📚 Aluna UAM - Cursando Análise e Desencolvimento de Sistemas.
 - 👩‍💻 Futura DEV.
-- 👩‍💻 Estudo focado em: React, MySQL, JavaScript, HTML e CSS.
-- Estudante da Alura e Digital Innovation One nas horas vagas.
-
 ----
 
 ### Main Tools
